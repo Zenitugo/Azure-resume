@@ -1,0 +1,3 @@
+variable "name" {}
+variable "rg-name" {}
+variable "cosmodb-account" {}

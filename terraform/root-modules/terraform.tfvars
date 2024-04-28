@@ -1,0 +1,6 @@
+group-name              = "azure-resume-rg"
+location                = "useast"
+name                    = "resume"
+offer_type              = "Standard"
+kind                    = "GlobalDocumentDB"
+consistency_level       = "Session" 
